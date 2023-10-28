@@ -92,10 +92,10 @@
     <tr>
       <td colspan="2" align="center">
           <a href="https://github.com/donaldturinglee#gh-light-mode-only">
-            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=donaldturinglee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="My GitHub Stats"/>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=donaldturinglee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true%22%20alt=%22My%20GitHub%20Stats%22" alt="My GitHub Stats"/>
           </a>
           <a href="https://github.com/donaldturinglee#gh-dark-mode-only">
-            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=donaldturinglee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="My GitHub Stats"/>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=donaldturinglee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true%22%20alt=%22My%20GitHub%20Stats%22" alt="My GitHub Stats"/>
           </a>
       </td>
     </tr>
