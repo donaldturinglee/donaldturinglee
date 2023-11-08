@@ -6,9 +6,6 @@
 ## Who Am I
 <div>
   <img align="right" alt="GIF" src="https://imgur.com/vC9nXzZ.gif?raw=true" width="500" height="320" />
-
-  *  ...
-
 </div>
 
 <br/>
@@ -41,6 +38,25 @@
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
+    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 </div>
 
 ## 📊 Rank Status
