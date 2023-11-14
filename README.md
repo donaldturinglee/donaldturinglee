@@ -38,7 +38,6 @@
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
