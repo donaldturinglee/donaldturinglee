@@ -7,7 +7,7 @@
 <div>
   <img align="right" alt="GIF" src="https://imgur.com/vC9nXzZ.gif?raw=true" width="500" height="320" />
 </div>
-
+<p>Hi there! I'm Lee, a software engineer specializing in C++ game server and client development. I excel in building high-performance, scalable game backend services, and I have extensive experience in areas such as graphics rendering, physics simulation, AI logic, and user interface design.</p>
 <br/>
 
 <!-- Social icons section -->
