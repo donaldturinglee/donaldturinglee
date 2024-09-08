@@ -7,7 +7,7 @@
 <div>
   <img align="right" alt="GIF" src="https://imgur.com/vC9nXzZ.gif?raw=true" width="500" height="300" />
 </div>
-<p>Hi there! I'm Lee, a software engineer specializing in C++ game server and client development. I excel in building high-performance, scalable game backend services, and I have extensive experience in areas such as graphics rendering, physics simulation, AI logic, and user interface design.</p>
+<p>TODO</p>
 <br/>
 
 <!-- Social icons section -->
@@ -35,15 +35,11 @@
 ## 🚀 Languages and Tools
 <div align="center">
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
     <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
