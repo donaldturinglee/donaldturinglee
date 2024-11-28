@@ -1,106 +1,67 @@
-<h3 align="center">
-  Hi there I'm Donald Lee!
-</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
+<div align="center">
 
-## Who Am I
+<h1>Hi there, I'm Donald Lee</h1>
+
+</div>
+
+<div align="center">
+
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark)](mailto:donaldturinglee@gmail.com) &nbsp;
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/donaldturinglee/) &nbsp;
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark)](https://discord.gg/uhq358jh) &nbsp;
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark)](https://x.com/donaldturinglee) &nbsp;
+[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=dark)](https://www.youtube.com/channel/UCOHOUOsJjGPBlov7FuwPDbA) &nbsp;
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=dark)](https://leetcode.com/u/donaldturinglee/) &nbsp;
+
+</div>
+
+<br/>
+
 <div>
-  <img align="right" alt="GIF" src="https://imgur.com/vC9nXzZ.gif?raw=true" width="500" height="300" />
-</div>
-<p>TODO</p>
-<br/>
+  
+<img align="right" src="https://camo.githubusercontent.com/56a4dbdd82e89640e853d6ecf5e84d50c39286f3281a58768719e69d75cad6ac/68747470733a2f2f696d6775722e636f6d2f7643396e587a5a2e6769663f7261773d74727565" alt="Profile GIF" width="340" height="191" />
 
-<!-- Social icons section -->
-<div align="center">
-  <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/doodle/48/000000/youtube--v2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/doodle/48/000000/twitter--v2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://img.icons8.com/doodle/48/000000/discord--v2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="" alt=""><img width="32px" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
 
 <br/>
 
-<!-- Social badges section -->
+- I'm currently working on **Computer Security**
+- I’m currently learning **Game Engine**
+- I’m looking to collaborate with **Open source enthusiast**
+- I'm happy to talk about anything
+
+<br/>
+
+## </> Languages and Tools
 <div align="center">
-  <a href="https://github.com/donaldturinglee?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/donaldturinglee"/></a>
-  <a href="https://github.com/donaldturinglee?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/donaldturinglee?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+<a href="#" target="_blank">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,arch,bash,javascript,css,html,python,typescript,podman,lua,octave,react,vim,unrealengine,postgresql,git,aws,gcp,azure,digitalocean,figma,redis,mongodb,nginx,latex,rabbitmq,fastapi,opencv&perline=15&theme=dark" />
+</a>
+
 </div>
 
-## 🚀 Languages and Tools
+<br/>
+
+## 📊 GitHub Stats
 <div align="center">
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
-    <a href = "https://www.markdownguide.org/basic-syntax/"><img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donaldturinglee&theme=gruvbox">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donaldturinglee&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donaldturinglee&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donaldturinglee&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donaldturinglee&theme=gruvbox&utcOffset=8">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=donaldturinglee&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldturinglee&theme=gruvbox">
 </div>
 
-## 📊 Rank Status
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/donaldturinglee#leetcode-card">
-        <img src="https://leetcard.jacoblin.cool/donaldturinglee?theme=light&font=source_code_pro" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/donaldturinglee#codewars-card">
-        <img src="https://github.r2v.ch/codewars?user=Donald%20Lee&theme=light&stroke=%23e6e6e6" alt="Codewars"  />
-      </a>
-    </td>
-</table>
+## 🎮 When I'm AFK
+<div align="center">
+  
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 
-## 📈 GitHub Activity Graph:
-
-<table align="center">
-    <tr>
-        <td align="center">
-          <a href="https://github.com/donaldturinglee#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=donaldturinglee&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
-          </a>
-          <a href="https://github.com/vaibhavvikas#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=donaldturinglee&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
-          </a>
-      </td>
-        <td rowspan="2" align="center">
-          <a href="https://github.com/donaldturinglee#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldturinglee&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
-          </a>
-          <a href="https://github.com/donaldturinglee#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donaldturinglee&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
-          </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-          <a href="https://github.com/donaldturinglee#gh-light-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=donaldturinglee&theme=default"/>
-          </a>
-          <a href="https://github.com/donaldturinglee#gh-dark-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=donaldturinglee&theme=tokyonight"/>
-          </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-          <a href="https://github.com/donaldturinglee#gh-light-mode-only">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=donaldturinglee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true%22%20alt=%22My%20GitHub%20Stats%22" alt="My GitHub Stats"/>
-          </a>
-          <a href="https://github.com/donaldturinglee#gh-dark-mode-only">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=donaldturinglee&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true%22%20alt=%22My%20GitHub%20Stats%22" alt="My GitHub Stats"/>
-          </a>
-      </td>
-    </tr>
-</table>
-
+</div>
