@@ -10,7 +10,7 @@
 
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark)](mailto:donaldturinglee@gmail.com) &nbsp;
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/donaldturinglee/) &nbsp;
-[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark)](https://discord.gg/uhq358jh) &nbsp;
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark)](https://discord.gg/YsteKRjrSH) &nbsp;
 [![Twitter](https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark)](https://x.com/donaldturinglee) &nbsp;
 [![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=dark)](https://www.youtube.com/channel/UCOHOUOsJjGPBlov7FuwPDbA) &nbsp;
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=dark)](https://leetcode.com/u/donaldturinglee/) &nbsp;
