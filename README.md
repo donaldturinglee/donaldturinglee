@@ -51,7 +51,7 @@
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donaldturinglee&theme=gruvbox">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donaldturinglee&theme=gruvbox">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donaldturinglee&theme=gruvbox">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donaldturinglee&theme=gruvbox&utcOffset=8">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donaldturinglee&theme=gruvbox&utcOffset=-8">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=donaldturinglee&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false">
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=donaldturinglee&theme=gruvbox">
 </div>
