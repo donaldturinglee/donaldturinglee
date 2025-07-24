@@ -59,9 +59,8 @@
 ## 🎮 When I'm AFK
 <div align="center">
   
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
+[![Steam](https://go-skill-icons.vercel.app/api/icons?i=steam&theme=dark)](https://steamcommunity.com/profiles/76561199489494649) &nbsp;
+[![StackOverflow](https://go-skill-icons.vercel.app/api/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/28962050/donald-lee) &nbsp;
+[![Twitch](https://go-skill-icons.vercel.app/api/icons?i=twitch&theme=dark)](https://www.twitch.tv/donaldturinglee) &nbsp;
 
 </div>
