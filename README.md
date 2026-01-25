@@ -8,7 +8,6 @@
 
 <div align="center">
 
-[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark)](mailto:donaldturinglee@gmail.com) &nbsp;
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/donaldturinglee/) &nbsp;
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark)](https://discord.gg/YsteKRjrSH) &nbsp;
 [![Twitter](https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark)](https://x.com/donaldturinglee) &nbsp;
