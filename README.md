@@ -20,7 +20,7 @@
 
 <div>
   
-<img align="right" src="https://camo.githubusercontent.com/56a4dbdd82e89640e853d6ecf5e84d50c39286f3281a58768719e69d75cad6ac/68747470733a2f2f696d6775722e636f6d2f7643396e587a5a2e6769663f7261773d74727565" alt="Profile GIF" width="340" height="191" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Profile GIF" width="340" height="191" />
 
 </div>
 
